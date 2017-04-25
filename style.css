@@ -1,0 +1,98 @@
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-size:1.5em;
+     }
+.cont-1 {
+  min-height: 500px;
+  background-image:
+  url("http://www.dhruvsofttechnology.com/wp-content/uploads/2016/01/aspnet1.jpg");
+  background-position-x: 50%;
+  background-position-y: 85%;
+  background-size: cover;}
+.border
+{
+  margin-right:25px;
+}
+.size{
+  font-size:1.5em;
+  
+}
+.intro {
+  padding-top: 280px;
+  color: black;
+  font-family: oswald;
+  }
+.cont-2
+{
+  min-height:300px;
+  background-image:url(http://i2.cdn.turner.com/money/dam/assets/160706112523-female-coder-540x304.jpg);
+  background-position-x: 50%;
+  background-position-y: 85%;
+  
+  background-size: cover;
+  
+}
+.green{
+  color:green;
+}
+.border0{
+   paddling-left:40px;
+      color:blue;
+}
+.cont-2-img-right {
+  width: 150px;
+  height: 150px;
+  border-radius: 80%;
+  float: right;}
+.thumbnail {
+  width: 100%;
+  height: 290px;
+  background-color: gray;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: Italic;
+  padding: 1px;
+  margin-bottom: 40px;
+  border: 0px;
+  box-shadow: 8px 5px 10px black;
+  color: black;
+  text-decoration:none
+}
+.thumbnail:hover {
+  background-color: #778899;
+  text-decoration: none;
+  color: black;
+  
+  }
+ .cont-3{background-image: url("http://www.dhruvsofttechnology.com/wp-content/uploads/2016/01/aspnet1.jpg");
+  background-position-x: 50%;
+  background-position-y: 85%;
+   background-size: cover;}
+.cont-4 {
+  margin: 0px;
+  padding: 0px;
+  background-color: #adad85;
+  height: 400px;
+}
+.cont-4 h3 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #000080;
+  padding-top: 150px;}
+footer {
+  padding-top: 18px;
+  
+}
+footer li {
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 40px;
+}
+.ftr-nav a {
+  text-decoration: none;
+}
+footer p {
+  font-weight: bold;
+}
